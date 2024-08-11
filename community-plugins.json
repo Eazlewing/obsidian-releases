@@ -12892,5 +12892,12 @@
         "author": "Technerium",
         "description": "Graph of the Number of Files in the Vault.",
         "repo": "technerium/obsidian-vault-size-history"
+    },
+    {
+        "id": "point-and-click",
+        "name": "Point and Click",
+        "author": "Eazlewing",
+        "description": "Easily switch between Editing view & reading by double clicking the white space.",
+        "repo": "Eazlewing/point-and-click"
     }
 ]
